@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with Learning AZ-104
 - 💬 Ask me about QAing, Automation, Productivity 
 - 📫 How to reach me: amruth963@outlook.com
-- 😄 Pronouns: Amruth
+- 😄 Pronouns: he/him
   
 <!--
 **amruth-cloud/amruth-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
